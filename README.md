@@ -1,2 +1,2 @@
 # practice
-push,pull,commit,add branch,fork
+practice
